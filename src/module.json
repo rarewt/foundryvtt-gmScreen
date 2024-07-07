@@ -49,50 +49,50 @@
   "media": [
     {
       "type": "cover",
-      "url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-gmScreen/main/readme-img/cover-image.png"
+      "url": "https://raw.githubusercontent.com/rarewt/foundryvtt-gmScreen/main/readme-img/cover-image.png"
     },
     {
       "type": "screenshot",
-      "url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-gmScreen/main/readme-img/combat-tab.png"
+      "url": "https://raw.githubusercontent.com/rarewt/foundryvtt-gmScreen/main/readme-img/combat-tab.png"
     },
     {
       "type": "screenshot",
-      "url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-gmScreen/main/readme-img/rules-tab.png"
+      "url": "https://raw.githubusercontent.com/rarewt/foundryvtt-gmScreen/main/readme-img/rules-tab.png"
     },
     {
       "type": "screenshot",
-      "url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-gmScreen/main/readme-img/notes-tab.png"
+      "url": "https://raw.githubusercontent.com/rarewt/foundryvtt-gmScreen/main/readme-img/notes-tab.png"
     },
     {
       "type": "screenshot",
-      "url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-gmScreen/main/readme-img/cheat-sheet-tab.png"
+      "url": "https://raw.githubusercontent.com/rarewt/foundryvtt-gmScreen/main/readme-img/cheat-sheet-tab.png"
     },
     {
       "type": "screenshot",
-      "url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-gmScreen/main/readme-img/cheet-sheet-player.png"
+      "url": "https://raw.githubusercontent.com/rarewt/foundryvtt-gmScreen/main/readme-img/cheet-sheet-player.png"
     },
     {
       "type": "screenshot",
-      "url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-gmScreen/main/readme-img/settings.png"
+      "url": "https://raw.githubusercontent.com/rarewt/foundryvtt-gmScreen/main/readme-img/settings.png"
     },
     {
       "type": "screenshot",
-      "url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-gmScreen/main/readme-img/tab-config.png"
+      "url": "https://raw.githubusercontent.com/rarewt/foundryvtt-gmScreen/main/readme-img/tab-config.png"
     },
     {
       "type": "video",
-      "url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-gmScreen/main/readme-img/tab-config-demo.mp4"
+      "url": "https://raw.githubusercontent.com/rarewt/foundryvtt-gmScreen/main/readme-img/tab-config-demo.mp4"
     }
   ],
   "flags": {
     "allowBugReporter": true
   },
   "socket": false,
-  "bugs": "https://github.com/ElfFriend-DnD/foundryvtt-gmScreen/issues",
-  "changelog": "https://github.com/ElfFriend-DnD/foundryvtt-gmScreen/releases",
-  "download": "https://github.com/ElfFriend-DnD/foundryvtt-gmScreen/releases/download/v3.0.1/module.zip",
-  "manifest": "https://github.com/ElfFriend-DnD/foundryvtt-gmScreen/releases/latest/download/module.json",
-  "readme": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-gmScreen/main/README.md",
-  "url": "https://github.com/ElfFriend-DnD/foundryvtt-gmScreen",
+  "bugs": "https://github.com/rarewt/foundryvtt-gmScreen/issues",
+  "changelog": "https://github.com/rarewt/foundryvtt-gmScreen/releases",
+  "download": "https://github.com/rarewt/foundryvtt-gmScreen/releases/download/v3.0.1/module.zip",
+  "manifest": "https://github.com/rarewt/foundryvtt-gmScreen/releases/latest/download/module.json",
+  "readme": "https://raw.githubusercontent.com/rarewt/foundryvtt-gmScreen/main/README.md",
+  "url": "https://github.com/rarewt/foundryvtt-gmScreen",
   "license": "MIT"
 }
