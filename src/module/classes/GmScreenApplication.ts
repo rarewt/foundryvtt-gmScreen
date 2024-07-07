@@ -433,7 +433,9 @@ export class GmScreenApplicationCommon extends Application {
     }
 
     // gets the relevant document's GM Screen Sheet class constructor based on any present overrides
+    //@ts-expect-error f off
     const SheetClassConstructor = (GmScreenCell._getGridEntrySheetClass(relevantDocument) ??
+      //@ts-expect-error f off
       relevantDocument.sheet?.constructor) as ConstructorOf<DocumentSheet> | undefined;
 
     /* If the currently cached application does not match the sheet class, 'close' that application and destroy its cache entry */

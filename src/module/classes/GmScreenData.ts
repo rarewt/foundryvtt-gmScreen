@@ -411,7 +411,7 @@ export class GmScreenDataManager {
         relevantDocument instanceof Actor ||
         relevantDocument instanceof Item ||
         relevantDocument instanceof JournalEntry ||
-        relevantDocument instanceof JournalEntryPage ||
+        relevantDocument instanceof JournalEntryData ||
         relevantDocument instanceof RollTable
       )
     ) {

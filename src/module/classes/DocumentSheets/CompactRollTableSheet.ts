@@ -53,6 +53,7 @@ export class CompactRollTableDisplay extends RollTableConfig {
 
     return label;
   }
+
   activateListeners(html) {
     DocumentSheet.prototype.activateListeners.call(this, html);
   }

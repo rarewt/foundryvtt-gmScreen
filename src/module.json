@@ -1,3 +1,4 @@
+
 {
   "name": "gm-screen",
   "id": "gm-screen",
@@ -23,11 +24,9 @@
   "esmodules": ["module/foundryvtt-gmScreen.js"],
   "styles": ["styles/foundryvtt-gmScreen.css"],
   "packs": [],
-  "relationships": [
-    {
-        "requires": []
-    }
-  ],
+  "relationships": {
+    "requires": []
+  },
   "languages": [
     {
       "lang": "de",

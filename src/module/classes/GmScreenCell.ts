@@ -155,6 +155,7 @@ export class GmScreenCell {
 
     try {
       const relevantDocument = await GmScreenDataManager.getRelevantGmScreenDocument(entityUuid);
+      //@ts-expect-error f off
       const relevantDocumentSheet = relevantDocument?.sheet;
       log(false, 'trying to edit entity', { relevantEntitySheet: relevantDocumentSheet });
 
