@@ -93,5 +93,6 @@ Handlebars.registerHelper(`${MODULE_ABBREV}-case`, function (value, options) {
 });
 
 Handlebars.registerHelper(`${MODULE_ABBREV}-enrich`, function (str) {
+  //@ts-expect-error handlebars things
   return TextEditor.enrichHTML(str, { async: false });
 });
